@@ -1,0 +1,11 @@
+[A] Which of the following are invalid C constants and why?
+’3.15’ 35,550 3.25e2
+2e-3 ‘eLearning’ "show"
+‘Quest’ 23 4 6 5 2
+Answer Constants can be of two types in c . They are primary and secondary . The primary ones are integer , character and the real. The secondary
+ones are string , array , pointers , structure , union , enum. 
+’3.15’ - Invalid becauses a character constant can contain only a single character 
+35,550 - Invalid becauses an integer constant cannot contain a comma 
+3.35e2 - Valid  
+2e-3   - Valis 
+'elearning' - Invalid because a character contain cannot contain 
