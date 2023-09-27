@@ -9,3 +9,5 @@ ones are string , array , pointers , structure , union , enum.
 3.35e2 - Valid  
 2e-3   - Valis 
 'elearning' - Invalid because a character contain cannot contain 
+"show" - valid 
+'Quest' - Invalid because a charactere constant can contain only a single character 
