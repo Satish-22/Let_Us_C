@@ -11,3 +11,65 @@ ones are string , array , pointers , structure , union , enum.
 'elearning' - Invalid because a character contain cannot contain 
 "show" - valid 
 'Quest' - Invalid because a charactere constant can contain only a single character 
+23 - Invalid because number cannot be a variable name.
+4 6 5 2 - Invalid because there cannot be space between the constant 
+
+[B] Which of the following are invalid variable names and why?
+B’day int $hello
+#HASH dot. number
+totalArea _main( ) temp_in_Deg
+total% 1st stack-queue
+variable name %name% salary
+
+B'day - Invalid because ' is not allowed in the variable name 
+int - Invalid because int is a reserved keyword 
+$hello - Invalid because a variable name must start from either an alphabet character or an underscore 
+#Hash - Invalid the reason is tha same as the previous one 
+dot. - Invalid because . is not allowed in a variabale name 
+number - Valid 
+totalArea - Valid 
+_main() - Valid
+
+temp_in_Deg - Valid 
+toal% - Invalid as % is not allowed in a variable name 
+1st - Invalid because a variable name cannot begin from a number 
+stack-queue - Invalid because we cannot use - in a variabale name 
+varaible name - Invalid because a variable name cannot contain space 
+%name% - Invalid because a variable name must being with a letter or an underscore 
+salary - Valid 
+
+[C] State whether the following statements are True or False:
+(a) C language was developed by Dennis Ritchie.
+(b) Operating systems like Windows, UNIX, Linux and Android are
+written in C.
+(c) C language programs can easily interact with hardware of a PC /
+Laptop.
+
+(d) A real constant in C can be expressed in both Fractional and
+Exponential forms.
+(e) A character variable can at a time store only one character.
+(f) The maximum value that an integer constant can have varies from
+one compiler to another.
+(g) Usually, all C statements are written in small case letters.
+(h) Spaces may be inserted between two words in a C statement.
+(i) Spaces cannot be present within a variable name.
+(j) C programs are converted into machine language with the help of a
+program called Editor.
+(k) Most development environments provide an Editor to type a C
+program and a Compiler to convert it into machine language.
+(l) int, char, float, real, integer, character, char, main, printf and scanf
+are keywords.
+
+Answer - a-True 
+b - True 
+c - True 
+d - True 
+e - True 
+f - True 
+g - True 
+h - True 
+i - True 
+j - False 
+k - True 
+l - True 
+
